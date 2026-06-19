@@ -14,7 +14,7 @@ export default async function BlogPage() {
   return (
     <main className="min-h-screen bg-[#07130f] text-white">
       {/* ── Header ── */}
-      <header className="border-b border-white/10 bg-[#07130f]/95 px-4 py-6 backdrop-blur-md sm:px-6">
+      <header className="sticky top-0 z-50 border-b border-white/10 bg-[#07130f]/80 px-4 py-4 backdrop-blur-xl sm:px-6">
         <div className="mx-auto flex max-w-5xl items-center justify-between">
           <Link href="/" className="flex items-center gap-3">
             <span className="flex h-10 w-10 items-center justify-center rounded-lg bg-[#d7f26f] font-semibold text-[#102015]">
@@ -31,17 +31,22 @@ export default async function BlogPage() {
         </div>
       </header>
 
-      {/* ── Content ── */}
-      <div className="mx-auto max-w-5xl px-4 py-16 sm:px-6">
-        <div className="mb-16">
-          <h1 className="text-4xl font-semibold tracking-normal sm:text-5xl">
+      {/* ── Hero Section ── */}
+      <section className="relative overflow-hidden border-b border-white/10 py-20 lg:py-24">
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(7,19,15,0.4),rgba(7,19,15,0.95)),url('/images/blog-bg.jpg')] bg-cover bg-center" />
+        <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-[#07130f] to-transparent" />
+        <div className="relative mx-auto max-w-5xl px-4 sm:px-6">
+          <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">
             Av Takip Blog
           </h1>
-          <p className="mt-4 max-w-2xl text-lg text-stone-400">
-            Avcılık ipuçları, yeni özellik duyuruları ve sahadan en iyi
-            pratikler hakkında yazılarımız.
+          <p className="mt-4 max-w-2xl text-lg text-stone-300">
+            Avcılık ipuçları, yeni özellik duyuruları ve sahadan en iyi pratikler hakkında yazılarımız.
           </p>
         </div>
+      </section>
+
+      {/* ── Content ── */}
+      <div className="mx-auto max-w-5xl px-4 py-16 sm:px-6">
 
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
           {posts.map((post) => (

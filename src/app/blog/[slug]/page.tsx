@@ -62,16 +62,18 @@ export default async function BlogPostPage({ params }: Props) {
         </div>
       </header>
 
-      <article className="mx-auto max-w-3xl px-4 py-12 sm:px-6 sm:py-20">
-        {/* ── Meta & Title ── */}
-        <div className="mb-10 text-center">
+      {/* ── Hero Section ── */}
+      <section className="relative overflow-hidden border-b border-white/10 py-16 sm:py-20 text-center">
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(7,19,15,0.4),rgba(7,19,15,0.95)),url('/images/blog-bg.jpg')] bg-cover bg-center" />
+        <div className="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-[#07130f] to-transparent" />
+        <div className="relative mx-auto max-w-3xl px-4 sm:px-6">
           <div className="mb-6 inline-flex rounded-full bg-[#d7f26f]/10 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-[#d7f26f]">
             {post.category?.name || "Genel"}
           </div>
-          <h1 className="mb-6 text-3xl font-semibold leading-tight tracking-normal sm:text-4xl md:text-5xl">
+          <h1 className="mb-6 text-3xl font-bold leading-tight tracking-tight sm:text-4xl md:text-5xl text-white">
             {post.title}
           </h1>
-          <div className="flex flex-wrap items-center justify-center gap-4 text-sm font-medium text-stone-400 sm:gap-6">
+          <div className="flex flex-wrap items-center justify-center gap-4 text-sm font-medium text-stone-300 sm:gap-6">
             <span className="flex items-center gap-2">
               <CalendarDays className="h-4 w-4" />
               {post.date}
@@ -82,6 +84,9 @@ export default async function BlogPostPage({ params }: Props) {
             </span>
           </div>
         </div>
+      </section>
+
+      <article className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
 
         {/* ── Featured Image ── */}
         <div className="relative mb-16 aspect-video w-full overflow-hidden rounded-2xl bg-black/20 ring-1 ring-white/10">
