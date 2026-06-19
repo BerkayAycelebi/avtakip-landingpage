@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "solunar-takvimi-nedir",
+    "title": "Solunar Takvimi Nedir ve Avcılıkta Nasıl Kullanılır?",
+    "excerpt": "Ay evreleri, güneş konumu ve aktivite dönemlerini okuyarak av ve balıkçılık planınızı nasıl güçlendirebilirsiniz?",
+    "date": "12 Haziran 2026",
+    "category": "Rehber",
+    "readTime": "4 dk",
+    "image": "/images/blog-solunar.png",
+    "content": "\n      <p>Güneş ve Ay'ın konumu doğadaki canlıların hareket düzenini etkiler. Solunar takvim, bu döngüleri okuyarak av ve balıkçılık için daha verimli zaman aralıklarını tahmin etmeye yardımcı olur.</p>\n      <h3>Solunar Nasıl Çalışır?</h3>\n      <p>Solunar yaklaşımda gün içinde <strong>major</strong> ve <strong>minor</strong> aktivite dönemleri takip edilir. Bu saatler tek başına kesin sonuç vermez, fakat hava, basınç ve bölge bilgisiyle birlikte güçlü bir planlama aracı olur.</p>\n      <h3>Av Takip'te Nasıl Kullanılır?</h3>\n      <p>Av Takip, konumunuza göre günün verimini, ay evresini ve uygun saatleri anlaşılır bir ekranda toplar. Böylece sahaya çıkmadan önce rotanızı ve zamanınızı daha bilinçli planlayabilirsiniz.</p>\n    "
+  },
+  {
+    "slug": "telsiz-ozelligi-ile-kesintisiz-iletisim",
+    "title": "Av Takip Telsiz Özelliği: Ormanda Kesintisiz İletişim",
+    "excerpt": "Ekibinizle sahada hızlı konuşun, konum paylaşımı ve bas-konuş akışıyla koordinasyonu canlı tutun.",
+    "date": "10 Haziran 2026",
+    "category": "Özellikler",
+    "readTime": "5 dk",
+    "image": "/images/blog-telsiz.png",
+    "content": "\n      <p>Arazide ekip koordinasyonu hızlı ve net olmalıdır. Av Takip'in bas-konuş telsiz özelliği, ekip arkadaşlarınızla telefon üzerinden anlık sesli iletişim kurmanıza yardımcı olur.</p>\n      <h3>Sahada Ne İşe Yarar?</h3>\n      <p>Konum değişikliği, rota kararı veya acil bilgilendirme gibi anlarda uzun mesaj yazmak yerine hızlıca konuşabilirsiniz. Özellikle kalabalık ekiplerde bu akış ciddi zaman kazandırır.</p>\n      <h3>Ekip Odaklı Kullanım</h3>\n      <p>Her ekip kendi düzeni içinde haberleşebilir. Harita ve ekip yönetimiyle birlikte kullanıldığında Av Takip, sahada daha kontrollü bir iletişim merkezi haline gelir.</p>\n    "
+  },
+  {
+    "slug": "en-iyi-avlanma-saatleri",
+    "title": "2026 Yılının En İyi Balık Avlama Saatleri",
+    "excerpt": "Mevsim, hava, basınç ve gün ışığı verilerini birlikte okuyarak doğru zamanı seçmenin pratik yolu.",
+    "date": "05 Haziran 2026",
+    "category": "İpuçları",
+    "readTime": "6 dk",
+    "image": "/images/blog-avlanma-saatleri.png",
+    "content": "\n      <p>Balık avında doğru saat seçimi; hava durumu, basınç, ışık seviyesi ve mevsimsel hareketlilikle birlikte değerlendirilmelidir. Tek bir veri yerine birkaç işareti birlikte okumak daha sağlıklı sonuç verir.</p>\n      <h3>Sabah ve Akşam Geçişleri</h3>\n      <p>Gün doğumu ve gün batımı çevresindeki geçiş saatleri çoğu bölgede hareketliliğin arttığı zamanlardır. Av Takip'teki hava ve solunar bilgileri bu saatleri planlamayı kolaylaştırır.</p>\n      <h3>Basınç ve Rüzgarı Takip Edin</h3>\n      <p>Basınç değişimi ve rüzgar yönü balık aktivitesini etkileyebilir. Bu yüzden çıkıştan önce sadece saate değil, günün genel koşullarına da bakmak gerekir.</p>\n    "
+  },
+  {
+    "slug": "harita-ve-rota-kullanimi",
+    "title": "Avlak Bölgelerinde Kaybolmamak İçin Harita Rehberi",
+    "excerpt": "Nokta kaydı, rota planı ve ekip konumu ile arazide daha kontrollü ve güvenli ilerleyin.",
+    "date": "01 Haziran 2026",
+    "category": "Rehber",
+    "readTime": "4 dk",
+    "image": "/images/blog-harita-rota.png",
+    "content": "\n      <p>Arazide güvenli ilerlemenin ilk adımı, gittiğiniz noktayı ve dönüş rotanızı net şekilde bilmektir. Av Takip harita araçları, avlak noktalarını kaydetmenize ve rotanızı daha düzenli takip etmenize yardımcı olur.</p>\n      <h3>Nokta Kaydı Alışkanlığı</h3>\n      <p>Aracınızı bıraktığınız yer, kamp noktası, su kaynağı veya ekip buluşma alanı gibi kritik noktaları kaydetmek dönüş yolunu kolaylaştırır.</p>\n      <h3>Ekip Konumu</h3>\n      <p>Ekiple çıkılan günlerde konum farkındalığı hem verimi hem güvenliği artırır. Harita görünümü sayesinde ekip üyeleriyle daha kontrollü hareket edebilirsiniz.</p>\n    "
+  }
+]
