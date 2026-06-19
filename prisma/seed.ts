@@ -41,6 +41,27 @@ async function main() {
     const posts = JSON.parse(fileContents);
 
     for (const post of posts) {
+      const categoryName = post.category || "Genel";
+      const categorySlug = categoryName
+        .toLowerCase()
+        .replace(/ı/g, "i")
+        .replace(/ğ/g, "g")
+        .replace(/ü/g, "u")
+        .replace(/ş/g, "s")
+        .replace(/ö/g, "o")
+        .replace(/ç/g, "c")
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/(^-|-$)+/g, "");
+
+      const category = await prisma.category.upsert({
+        where: { slug: categorySlug },
+        update: {},
+        create: {
+          name: categoryName,
+          slug: categorySlug,
+        },
+      });
+
       await prisma.blogPost.upsert({
         where: { slug: post.slug },
         update: {
@@ -50,7 +71,7 @@ async function main() {
           image: post.image,
           date: post.date,
           readTime: post.readTime,
-          categoryId: defaultCategory.id,
+          categoryId: category.id,
         },
         create: {
           slug: post.slug,
@@ -60,7 +81,7 @@ async function main() {
           image: post.image,
           date: post.date,
           readTime: post.readTime,
-          categoryId: defaultCategory.id,
+          categoryId: category.id,
         },
       });
     }

@@ -17,9 +17,13 @@ export default async function BlogPage() {
       <header className="sticky top-0 z-50 border-b border-white/10 bg-[#07130f]/80 px-4 py-4 backdrop-blur-xl sm:px-6">
         <div className="mx-auto flex max-w-5xl items-center justify-between">
           <Link href="/" className="flex items-center gap-3">
-            <span className="flex h-10 w-10 items-center justify-center rounded-lg bg-[#d7f26f] font-semibold text-[#102015]">
-              AT
-            </span>
+            <Image
+              src="https://lh3.googleusercontent.com/c2jHs_n3MWtvUNyGqNxQbcb5U1VDai7d8NOmzEgy05D0SdURi4eGxHnGHkB5UU9y1ttcii8ShXcIJiEMT0-O=s512"
+              alt="Av Takip Logo"
+              width={40}
+              height={40}
+              className="h-10 w-10 rounded-lg"
+            />
             <span className="text-xl font-semibold">Blog</span>
           </Link>
           <Link
@@ -33,7 +37,7 @@ export default async function BlogPage() {
 
       {/* ── Hero Section ── */}
       <section className="relative overflow-hidden border-b border-white/10 py-20 lg:py-24">
-        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(7,19,15,0.4),rgba(7,19,15,0.95)),url('/images/blog-bg.jpg')] bg-cover bg-center" />
+        <div className="absolute inset-0 bg-[linear-gradient(to_bottom,rgba(7,19,15,0.15),#07130f),url('/images/blog-bg.jpg')] bg-cover bg-center" />
         <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-[#07130f] to-transparent" />
         <div className="relative mx-auto max-w-5xl px-4 sm:px-6">
           <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">

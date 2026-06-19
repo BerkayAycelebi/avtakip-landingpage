@@ -26,6 +26,20 @@ export default function EditBlogPostPage() {
     content: "",
   });
 
+  const fetchCategories = useCallback(async () => {
+    try {
+      const res = await fetch("/api/admin/categories");
+      if (res.ok) {
+        const data = await res.json();
+        if (Array.isArray(data)) {
+          setCategories(data);
+        }
+      }
+    } catch {
+      /* ignore */
+    }
+  }, []);
+
   const fetchPost = useCallback(async () => {
     try {
       const res = await fetch(`/api/admin/blog/${slug}`);
@@ -51,8 +65,9 @@ export default function EditBlogPostPage() {
   }, [slug]);
 
   useEffect(() => {
+    fetchCategories();
     fetchPost();
-  }, [fetchPost]);
+  }, [fetchCategories, fetchPost]);
 
   function updateField(field: string, value: string) {
     setForm((prev) => ({ ...prev, [field]: value }));
