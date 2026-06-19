@@ -46,6 +46,14 @@ export default function AdminLayout({
     router.push("/admin");
   }, [router]);
 
+  useEffect(() => {
+    if (authenticated === false && pathname !== "/admin") {
+      router.push("/admin");
+    } else if (authenticated === true && pathname === "/admin") {
+      router.push("/admin/blog");
+    }
+  }, [authenticated, pathname, router]);
+
   // Loading state
   if (authenticated === null) {
     return (
@@ -55,9 +63,25 @@ export default function AdminLayout({
     );
   }
 
-  // Not authenticated — show just the children (login page)
+  // Not authenticated — show just the children if on login page, otherwise loading spinner while redirecting
   if (!authenticated) {
+    if (pathname !== "/admin") {
+      return (
+        <div className="flex min-h-screen items-center justify-center bg-[#07130f]">
+          <div className="h-8 w-8 animate-spin rounded-full border-2 border-[#d7f26f] border-t-transparent" />
+        </div>
+      );
+    }
     return <>{children}</>;
+  }
+
+  // If authenticated and on login page, show spinner while redirecting to dashboard
+  if (authenticated && pathname === "/admin") {
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-[#07130f]">
+        <div className="h-8 w-8 animate-spin rounded-full border-2 border-[#d7f26f] border-t-transparent" />
+      </div>
+    );
   }
 
   return (
