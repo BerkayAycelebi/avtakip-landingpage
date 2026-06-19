@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/commentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+	<title>Av Takip</title>
+	<link>http://localhost</link>
+	<description>Av Takip Blog Verileri</description>
+	<pubDate>Fri, 19 Jun 2026 13:14:24 GMT</pubDate>
+	<language>tr-TR</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost</wp:base_site_url>
+	<wp:base_blog_url>http://localhost</wp:base_blog_url>
+
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename>genel</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name><![CDATA[Genel]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>2</wp:term_id>
+		<wp:category_nicename>balikcilik</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name><![CDATA[Balıkçılık]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>3</wp:term_id>
+		<wp:category_nicename>avcilik</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name><![CDATA[Avcılık]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>4</wp:term_id>
+		<wp:category_nicename>guvenlik</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name><![CDATA[Güvenlik]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>5</wp:term_id>
+		<wp:category_nicename>doga-koruma</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name><![CDATA[Doğa Koruma]]></wp:cat_name>
+	</wp:category>
+	<item>
+		<title><![CDATA[Solunar Takvimi Nedir ve Balıkçılıkta Nasıl Kullanılır?]]></title>
+		<link>http://localhost/blog/solunar-takvimi-ve-balikcilik</link>
+		<pubDate>Fri, 19 Jun 2026 10:16:27 GMT</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/blog/solunar-takvimi-ve-balikcilik</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Balıkçılıkta başarı tesadüf değildir. Birçok deneyimli balıkçı, su kenarında geçirilen saatlerin ötesinde, balıkların hareketlilik zamanlarını belirleyen doğa olaylarını yakından takip eder. İşte bu noktada devreye giren en güçlü bilimsel araçlardan biri <strong>Solunar Teorisi</strong>'dir.</p><h3>Solunar Teorisinin Kökeni</h3><p>Solunar teorisi, 1926 yılında John Alden Knight tarafından ortaya atılmıştır. Bu teoriye göre, ay ve güneşin göreceli konumları, dünyadaki tüm yaban hayatı ve özellikle balıklar üzerinde doğrudan bir çekim ve hareketlilik etkisi yaratır. Balıklar, günün belirli saatlerinde beslenmek için diğer saatlere oranla çok daha aktif olurlar.</p><h3>Ana (Major) ve Yardımcı (Minor) Periyotlar</h3><p>Günün 24 saati içerisinde solunar aktivite dört temel döneme ayrılır:</p><ul><li><strong>Major (Ana) Periyotlar:</strong> Ay tam tepemizdeyken veya tam ayaklarımızın altındayken gerçekleşir. Genellikle 1.5 - 2 saat sürer ve balıkların beslenme isteğinin en yüksek olduğu anlardır.</li><li><strong>Minor (Yardımcı) Periyotlar:</strong> Ayın ufuk çizgisine yükseldiği veya battığı anlarda gerçekleşir. Yaklaşık 1 saat sürer ve orta düzeyde hareketlilik sağlar.</li></ul><h3>Av Takip ile Solunar Planlaması</h3><p>Doğru solunar saatlerinde su kenarında olmak av veriminizi katlayabilir. <strong>Av Takip</strong> uygulaması, bulunduğunuz konumun enlem ve boylam bilgilerini kullanarak o güne ait major ve minor periyotları saniyeler içinde hesaplar. Ay evrelerini ve gelgit tahminlerini inceleyerek olta atacağınız en verimli zaman dilimlerini önceden görebilirsiniz.</p><p>Bir sonraki balık avına çıkmadan önce Av Takip solunar takvimini kontrol etmeyi unutmayın. Rastgele atışlar yerine, balıkların beslenme saatinde suda olmak farkı görmenizi sağlayacaktır!</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Solunar teorisini ve balıkların en aktif olduğu beslenme saatlerini doğru tahmin ederek balık avı veriminizi nasıl artıracağınızı öğrenin.]]></excerpt:encoded>
+		<wp:post_id>100</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:16:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:16:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[solunar-takvimi-ve-balikcilik]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="balikcilik"><![CDATA[Balıkçılık]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5 dk]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_custom_image_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[[WP_THEME_URL]/assets/images/blog-solunar-balikcilik.png]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Yaban Hayatı Takibinde GPS ve Canlı Haritaların Önemi]]></title>
+		<link>http://localhost/blog/yaban-hayati-takibi-gps-harita</link>
+		<pubDate>Fri, 19 Jun 2026 10:16:27 GMT</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/blog/yaban-hayati-takibi-gps-harita</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Geniş ormanlık araziler, dik dağ yamaçları veya sık çalılıklar... Avcılık doğayla baş başa kalmanın en heyecan verici yollarından biridir, ancak aynı zamanda ciddi riskler de barındırır. Bilmediğiniz bir bölgede yönünüzü kaybetmek, sadece avın başarısız olmasına değil, güvenlik tehditlerine de yol açabilir. Modern teknoloji, bu zorlukları aşmamız için bize <strong>GPS ve Canlı Haritalar</strong> sunuyor.</p><h3>Saha Navigasyonunun Temelleri</h3><p>Geleneksel pusula ve kağıt harita bilgisi her avcı için temel bir gerekliliktir. Ancak dinamik ve sürekli değişen arazi şartlarında, gerçek zamanlı konum bilgisi veren dijital GPS sistemleri büyük bir kolaylık sağlar. Yüksek çözünürlüklü topografik haritalar sayesinde arazinin eğimini, su kaynaklarını ve saklanma alanlarını önceden görebilirsiniz.</p><h3>Ekip Koordinasyonu ve Güvenlik</h3><p>Grup avlarında en büyük risklerden biri ekip üyelerinin birbirinden kopmasıdır. Canlı harita entegrasyonu, ekibinizin nerede olduğunu anlık olarak izlemenizi sağlar. Av Takip uygulamasının canlı harita özelliği sayesinde:</p><ul><li>Tüm grup üyelerinin konumlarını tek ekranda görebilir,</li><li>Önemli geçiş yollarını veya kamp alanlarını harita üzerinde işaretleyebilir,</li><li>Belirlediğiniz güvenli bölgelerin sınırlarını çizebilirsiniz.</li></ul><h3>Çevrimdışı Çalışma Kabiliyeti</h3><p>Avlak bölgelerinde mobil şebekelerin çekmediği durumlar sıkça yaşanır. Bu yüzden kullanılan GPS sisteminin çevrimdışı harita desteği sunması hayati önem taşır. Av Takip ile sahaya çıkmadan önce bölgenin haritasını telefonunuza indirerek, internet bağlantınız olmasa bile GPS üzerinden konumunuzu takip edebilirsiniz.</p><p>Unutmayın, iyi bir avcı sadece hedefi iyi vuran değil, sahada güvenliği ve yönünü en iyi yönetendir.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bilinmeyen arazilerde kaybolma riskini sıfıra indirmek ve av grubunuzla sahada canlı koordinasyon sağlamak için GPS harita çözümleri.]]></excerpt:encoded>
+		<wp:post_id>101</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:16:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:16:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[yaban-hayati-takibi-gps-harita]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="avcilik"><![CDATA[Avcılık]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6 dk]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_custom_image_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[[WP_THEME_URL]/assets/images/blog-harita-gps.png]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Sahada Güvenli İletişim: Bas-Konuş Telsiz Sistemleri]]></title>
+		<link>http://localhost/blog/sahada-telsiz-iletisimi-guvenlik</link>
+		<pubDate>Fri, 19 Jun 2026 10:16:27 GMT</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/blog/sahada-telsiz-iletisimi-guvenlik</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Avcılıkta ve doğa sporlarında anlık iletişim sadece konfor değil, çoğu zaman bir güvenlik gerekliliğidir. Saniyelerin önemli olduğu anlarda telefondan numara tuşlayıp aramak veya mesaj yazmak pratik değildir. İşte bu nedenle avcıların en sadık yardımcılarından biri **telsiz sistemleridir**.</p><h3>Geleneksel Telsizlerin Sınırları</h3><p>Standart PMR veya amatör telsizler belirli bir mesafeye kadar oldukça etkilidir. Ancak araya giren yüksek tepeler, kalın ağaç örtüsü veya mesafe sınırları iletişimin kopmasına yol açabilir. Ayrıca bu cihazları taşımak ve frekans ayarlamak ek bir yük getirebilir.</p><h3>Yeni Nesil Bas-Konuş (Push-to-Talk) Teknolojisi</h3><p>Akıllı telefonların sunduğu veri altyapısını kullanarak çalışan dijital telsiz sistemleri, geleneksel telsizlerin sınırlarını ortadan kaldırıyor. **Av Takip Bas-Konuş Telsiz** özelliği, telefonunuzu anında sınırsız mesafeli bir telsize dönüştürür. Grup üyeleri tek bir tuşa basarak tüm ekiple aynı anda sesli iletişim kurabilir.</p><h3>Neden Bas-Konuş Kullanmalıyız?</h3><ul><li><strong>Hızlı Durum Raporlama:</strong> Avın yönü değiştiğinde veya bir hedef görüldüğünde tüm ekibi saniyeler içinde bilgilendirin.</li><li><strong>Güvenlik ve Acil Durumlar:</strong> Herhangi bir kaza veya kaybolma anında tek tuşla yardım isteyin ve harita üzerinden yerinizi paylaşın.</li><li><strong>Sessiz ve Pratik:</strong> Kulaklık kullanarak doğadaki sessizliği bozmadan ekibinizle irtibatta kalın.</li></ul><p>Teknolojiyi yanınıza alın, telsiz koordinasyonuyla sahada her zaman bir adım önde olun.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Mobil ağlar üzerinden çalışan modern bas-konuş telsizlerin av ekipleri arasındaki koordinasyonda hayati önemini keşfedin.]]></excerpt:encoded>
+		<wp:post_id>102</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:16:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:16:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sahada-telsiz-iletisimi-guvenlik]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="guvenlik"><![CDATA[Güvenlik]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4 dk]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_custom_image_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[[WP_THEME_URL]/assets/images/blog-telsiz-iletisim.png]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Sürdürülebilir Avcılık: Gelecek Nesillere Doğayı Bırakmak]]></title>
+		<link>http://localhost/blog/surdurulebilir-avcilik-ve-etik-kurallar</link>
+		<pubDate>Fri, 19 Jun 2026 10:16:27 GMT</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/blog/surdurulebilir-avcilik-ve-etik-kurallar</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Gerçek bir avcı, doğanın hakimi değil, onun bir parçası ve koruyucusudur. Yaban hayatının sürdürülebilirliği, avcılık sporunun geleceğiyle doğrudan ilişkilidir. Bugün attığımız her bilinçli adım, yarın çocuklarımızın da aynı doğada yürüyebilmesini sağlayacaktır.</p><h3>Sürdürülebilir Avcılık Nedir?</h3><p>Sürdürülebilir avcılık; yaban hayatı popülasyonlarının kendilerini yenileyebilme kapasitesini aşmadan, yasal düzenlemeler ve bilimsel veriler doğrultusunda yapılan avcılık faaliyetleridir. Bu yaklaşım, ekosistemin dengesini bozmadan belirli türlerin kontrol altında tutulmasına yardımcı olur.</p><h3>Etik Avcılık Kuralları</h3><p>Etik bir avcının uyması gereken temel prensipler şunlardır:</p><ul><li><strong>Av Sezonlarına Uymak:</strong> Üreme ve yavrulama dönemlerinde avcılık faaliyetlerini tamamen durdurarak türlerin çoğalmasına fırsat tanımak.</li><li><strong>Limitlere Saygı Duymak:</strong> Belirlenen günlük av limitlerinin üzerine çıkmamak, açgözlülükten uzak durmak.</li><li><strong>Yaralı Hayvan Bırakmamak:</strong> Atış becerilerini geliştirerek avın acı çekmesini önlemek ve vurulan avı mutlaka arayıp bulmak.</li></ul><h3>Av Takip ve Koruma Bilinci</h3><p>Av Takip olarak, yasal avcılığı ve doğa koruma bilincini destekliyoruz. Uygulamamız üzerinden güncel av dönemlerini, yasaklı bölgeleri ve limitleri takip edebilir, yaban hayatı gözlemlerinizi kaydederek popülasyon takibine katkıda bulunabilirsiniz. Doğayı korumak, avcılığın ilk kuralıdır.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Doğal dengenin korunması, av sezonları ve etik kurallara uyarak hem doğayı koruyup hem de tutkunuzu sürdürmenin yolları.]]></excerpt:encoded>
+		<wp:post_id>103</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:16:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:16:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[surdurulebilir-avcilik-ve-etik-kurallar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="doga-koruma"><![CDATA[Doğa Koruma]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5 dk]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_custom_image_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[[WP_THEME_URL]/assets/images/blog-surdurulebilir-avcilik.png]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Yeni Başlayanlar İçin Olta Balıkçılığı Ekipman Rehberi]]></title>
+		<link>http://localhost/blog/yeni-baslayanlar-olta-balikciligi-rehberi</link>
+		<pubDate>Fri, 19 Jun 2026 10:16:27 GMT</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/blog/yeni-baslayanlar-olta-balikciligi-rehberi</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Su kenarında sakin bir gün geçirmek, doğanın sesini dinlemek ve ilk balığınızı yakalamanın heyecanını yaşamak... Balıkçılık, ömür boyu sürecek harika bir hobidir. Ancak yeni başlayanlar için binlerce çeşit ekipman arasında seçim yapmak oldukça kafa karıştırıcı olabilir. Bu rehberde, ilk avınız için ihtiyacınız olan temel malzemeleri sadeleştiriyoruz.</p><h3>1. Kamış ve Makine Seçimi</h3><p>İlk adımda çok özel veya pahalı ekipmanlar yerine çok yönlü (All-Around) setleri tercih etmelisiniz. Yeni başlayanlar için en uygun seçeneklerden biri **Spin (At-Çek)** setleridir. 2.40m veya 2.70m uzunluğunda, orta aksiyonlu teleskopik veya parçalı bir kamış ile 3000'lik veya 4000'lik bir makine başlangıç için idealdir.</p><h3>2. Misina Seçimi</h3><p>Misinanın görünmezliği ve sağlamlığı avın kaderini belirler. Başlangıçta kullanımı kolay ve düğüm atılması pratik olan **Monofilament (Naylon)** misinaları tercih edebilirsiniz. 0.25mm - 0.30mm kalınlık aralığı birçok tatlı su ve kıyı deniz avı için yeterlidir.</p><h3>3. Temel İğneler ve Yemler</h3><p>Yakalayacağınız balık türüne göre yem seçimi değişir. Suni yemlerle (kaşık, sahte balık, silikon yemler) at-çek yapabileceğiniz gibi, şamandıralı takımlarla solucan, ekmek içi veya mısır gibi doğal yemler de kullanabilirsiniz.</p><h3>İlk Avdan Önce Altın Tavsiyeler</h3><ul><li>Düğüm tekniklerini evde pratik yaparak öğrenin.</li><li>Gideceğiniz avlağın yasal kurallarını ve limitlerini kontrol edin.</li><li>Av Takip uygulamasını indirerek gideceğiniz göl veya deniz kıyısındaki hava durumunu ve rüzgar yönünü mutlaka inceleyin.</li></ul><p>Sabır, bu hobinin en önemli anahtarıdır. Rastgele!</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[Kamış, makine, misina ve sahte yem seçimi gibi balıkçılığa ilk adımda ihtiyacınız olan tüm temel bilgiler.]]></excerpt:encoded>
+		<wp:post_id>104</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-19 10:16:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-19 10:16:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[yeni-baslayanlar-olta-balikciligi-rehberi]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="balikcilik"><![CDATA[Balıkçılık]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_read_time]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7 dk]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_custom_image_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[[WP_THEME_URL]/assets/images/blog-olta-rehberi.png]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+</channel>
+</rss>
